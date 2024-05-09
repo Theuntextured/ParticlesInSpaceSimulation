@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\theun\\source\\repos\\ParticlesInSpaceSimulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0F2E3D-D148-4286-A039-55F6A09902A1}|ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation.vcxproj|C:\\Users\\theun\\source\\repos\\ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation\\Particle.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F0F2E3D-D148-4286-A039-55F6A09902A1}|ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation.vcxproj|solutionrelative:ParticlesInSpaceSimulation\\Particle.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0F2E3D-D148-4286-A039-55F6A09902A1}|ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation.vcxproj|C:\\Users\\theun\\source\\repos\\ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation\\ViewportManager.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F0F2E3D-D148-4286-A039-55F6A09902A1}|ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation.vcxproj|solutionrelative:ParticlesInSpaceSimulation\\ViewportManager.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0F2E3D-D148-4286-A039-55F6A09902A1}|ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation.vcxproj|C:\\Users\\theun\\source\\repos\\ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation\\Settings.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F0F2E3D-D148-4286-A039-55F6A09902A1}|ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation.vcxproj|solutionrelative:ParticlesInSpaceSimulation\\Settings.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0F2E3D-D148-4286-A039-55F6A09902A1}|ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation.vcxproj|C:\\Users\\theun\\source\\repos\\ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation\\Particle.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F0F2E3D-D148-4286-A039-55F6A09902A1}|ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation.vcxproj|solutionrelative:ParticlesInSpaceSimulation\\Particle.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0F2E3D-D148-4286-A039-55F6A09902A1}|ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation.vcxproj|C:\\Users\\theun\\source\\repos\\ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation\\Engine.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F0F2E3D-D148-4286-A039-55F6A09902A1}|ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation.vcxproj|solutionrelative:ParticlesInSpaceSimulation\\Engine.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0F2E3D-D148-4286-A039-55F6A09902A1}|ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation.vcxproj|C:\\Users\\theun\\source\\repos\\ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation\\ViewportManager.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F0F2E3D-D148-4286-A039-55F6A09902A1}|ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation.vcxproj|solutionrelative:ParticlesInSpaceSimulation\\ViewportManager.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0F2E3D-D148-4286-A039-55F6A09902A1}|ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation.vcxproj|C:\\Users\\theun\\source\\repos\\ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation\\Engine.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F0F2E3D-D148-4286-A039-55F6A09902A1}|ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation.vcxproj|solutionrelative:ParticlesInSpaceSimulation\\Engine.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0F2E3D-D148-4286-A039-55F6A09902A1}|ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation.vcxproj|C:\\Users\\theun\\source\\repos\\ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F0F2E3D-D148-4286-A039-55F6A09902A1}|ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation.vcxproj|solutionrelative:ParticlesInSpaceSimulation\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 426,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Particle.cu",
+              "DocumentMoniker": "C:\\Users\\theun\\source\\repos\\ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation\\Particle.cu",
+              "RelativeDocumentMoniker": "ParticlesInSpaceSimulation\\Particle.cu",
+              "ToolTip": "C:\\Users\\theun\\source\\repos\\ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation\\Particle.cu",
+              "RelativeToolTip": "ParticlesInSpaceSimulation\\Particle.cu",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-09-12T13:56:51.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewportManager.cu",
+              "DocumentMoniker": "C:\\Users\\theun\\source\\repos\\ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation\\ViewportManager.cu",
+              "RelativeDocumentMoniker": "ParticlesInSpaceSimulation\\ViewportManager.cu",
+              "ToolTip": "C:\\Users\\theun\\source\\repos\\ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation\\ViewportManager.cu",
+              "RelativeToolTip": "ParticlesInSpaceSimulation\\ViewportManager.cu",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAjwBoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-09-12T13:52:47.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Engine.cu",
+              "DocumentMoniker": "C:\\Users\\theun\\source\\repos\\ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation\\Engine.cu",
+              "RelativeDocumentMoniker": "ParticlesInSpaceSimulation\\Engine.cu",
+              "ToolTip": "C:\\Users\\theun\\source\\repos\\ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation\\Engine.cu",
+              "RelativeToolTip": "ParticlesInSpaceSimulation\\Engine.cu",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-09-12T13:44:57.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "kernel.cu",
+              "DocumentMoniker": "C:\\Users\\theun\\source\\repos\\ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation\\kernel.cu",
+              "RelativeDocumentMoniker": "ParticlesInSpaceSimulation\\kernel.cu",
+              "ToolTip": "C:\\Users\\theun\\source\\repos\\ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation\\kernel.cu",
+              "RelativeToolTip": "ParticlesInSpaceSimulation\\kernel.cu",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-09-12T13:42:14.895Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 158,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Particle.cuh",
+              "DocumentMoniker": "C:\\Users\\theun\\source\\repos\\ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation\\Particle.cuh",
+              "RelativeDocumentMoniker": "ParticlesInSpaceSimulation\\Particle.cuh",
+              "ToolTip": "C:\\Users\\theun\\source\\repos\\ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation\\Particle.cuh",
+              "RelativeToolTip": "ParticlesInSpaceSimulation\\Particle.cuh",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-09-12T13:56:37.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewportManager.cuh",
+              "DocumentMoniker": "C:\\Users\\theun\\source\\repos\\ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation\\ViewportManager.cuh",
+              "RelativeDocumentMoniker": "ParticlesInSpaceSimulation\\ViewportManager.cuh",
+              "ToolTip": "C:\\Users\\theun\\source\\repos\\ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation\\ViewportManager.cuh",
+              "RelativeToolTip": "ParticlesInSpaceSimulation\\ViewportManager.cuh",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-09-12T13:53:03.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Engine.cuh",
+              "DocumentMoniker": "C:\\Users\\theun\\source\\repos\\ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation\\Engine.cuh",
+              "RelativeDocumentMoniker": "ParticlesInSpaceSimulation\\Engine.cuh",
+              "ToolTip": "C:\\Users\\theun\\source\\repos\\ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation\\Engine.cuh",
+              "RelativeToolTip": "ParticlesInSpaceSimulation\\Engine.cuh",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-09-12T13:44:19.95Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 217,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Settings.cuh",
+              "DocumentMoniker": "C:\\Users\\theun\\source\\repos\\ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation\\Settings.cuh",
+              "RelativeDocumentMoniker": "ParticlesInSpaceSimulation\\Settings.cuh",
+              "ToolTip": "C:\\Users\\theun\\source\\repos\\ParticlesInSpaceSimulation\\ParticlesInSpaceSimulation\\Settings.cuh",
+              "RelativeToolTip": "ParticlesInSpaceSimulation\\Settings.cuh",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-09-13T11:36:47.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
